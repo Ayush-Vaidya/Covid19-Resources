@@ -4,4 +4,4 @@ The website provides complete data regarding vaccination against the virus, emer
 It also provides necessary guidelines in for of covid-19. Also the website connects the vaccination sources as well the slot booking reminder.
 The main aim of SMC was to provide service towards the mankind and the society at the time of crisis. The community not only deals with the education and knowledge but also lays towards its foundation principle of serving the nation.
 
-Link to the website:- www.covid-19resources.netlify.app
+Link to the website:- https://www.covid-19resources.netlify.app
